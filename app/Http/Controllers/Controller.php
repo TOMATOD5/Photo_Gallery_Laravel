@@ -6,7 +6,7 @@ use Illuminate\Foundation\Auth\Access\AuthorizesRequests;
 use Illuminate\Foundation\Validation\ValidatesRequests;
 use Illuminate\Routing\Controller as BaseController;
 
-echo ('Toto je poháněno Frameworkem Laravel');
+echo ('Tato aplikace je poháněna Frameworkem Laravel');
 
 class Controller extends BaseController
 {
